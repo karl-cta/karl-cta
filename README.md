@@ -3,18 +3,13 @@
 I'm a passionate **System and Network Administrator** with over 2 years of professional experience. My expertise lies in managing and automating IT infrastructures, primarily using Windows Server and Linux environments. I’m always looking to learn more and share my knowledge in the realms of **DevOps**, **Virtualization**, and **Automation**.
 
 ## 🌟 Key Skills
-- **Windows Server**: Expert in DHCP, DNS, AD, WDS, IIS, DFS, RDS, GPO, and more.
+- **Windows Server**: DHCP, DNS, AD, WDS, IIS, DFS, RDS, GPO, and more.
 - **Linux (Debian / CentOS / RedHat)**: Server administration, Bash scripting, Docker, Nginx, Terraform.
 - **PowerShell**: Automating tasks and managing Windows environments.
 - **Virtualization**: Hands-on experience with Hyper-V, VMware ESXi & vSphere.
 - **Monitoring and Backup**: Proficient in Centreon, NagVis, Zabbix, Grafana, Veeam Backup, BackupExec.
 - **SQL Management Studio**: Database maintenance, backup & restoration.
 - **User Support and Relations**: Providing assistance and guidance to end-users.
-
-## 🛠 Projects
-- **Server Automation**: Automated the deployment of Windows and Linux servers using scripts and Docker.
-- **Monitoring Dashboard**: Implemented a complete monitoring solution with Centreon and Grafana.
-- **Infrastructure as Code**: Managed infrastructure using Terraform for consistency and reliability.
 
 ## 🎯 Interests
 - **Learning**: Constantly updating my skills in DevOps and automation.
