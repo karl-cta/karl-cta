@@ -75,7 +75,7 @@ L'idée : partager des contenus accessibles, des simples astuces aux tutos plus 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=karlcerta&show_icons=true&theme=vue-dark&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=karl-cta&show_icons=true&theme=vue-dark&hide_border=true" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karl-cta&layout=compact&theme=vue-dark&hide_border=true" alt="Top Languages" />
 </div>
 
