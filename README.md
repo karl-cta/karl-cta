@@ -48,10 +48,10 @@ Mon terrain de jeu personnel avec **Proxmox** où je teste et expérimente :
 Développement d'un formulaire bash qui alimente automatiquement les fichiers `.tfvars` pour déployer des VMs sur vCenter. Mes premiers pas avec l'Infrastructure as Code !
 
 ### 📊 **Dashboard Personnel**
-Interface web centralisée pour monitorer mes services : **[dash.karlcerta.fr](https://dash.karlcerta.fr)**
+Dashboard Homer afin de centraliser mes favoris : **[dash.karlcerta.fr](https://dash.karlcerta.fr)**
 
 ### 📡 **Flux RSS Technique**
-Agrégateur de flux RSS spécialisé IT : **[rss.karlcerta.fr](https://rss.karlcerta.fr)**
+Mon FreshRSS pour faire ma veille : **[rss.karlcerta.fr](https://rss.karlcerta.fr)**
 
 ---
 
@@ -76,7 +76,7 @@ L'idée : partager des contenus accessibles, des simples astuces aux tutos plus 
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=karlcerta&show_icons=true&theme=vue-dark&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karlcerta&layout=compact&theme=vue-dark&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karl-cta&layout=compact&theme=vue-dark&hide_border=true" alt="Top Languages" />
 </div>
 
 ---
