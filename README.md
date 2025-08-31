@@ -72,14 +72,6 @@ L'idée : partager des contenus accessibles, des simples astuces aux tutos plus 
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=karl-cta&show_icons=true&theme=vue-dark&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karl-cta&layout=compact&theme=vue-dark&hide_border=true" alt="Top Languages" />
-</div>
-
----
 
 ## 📫 Contact & Liens
 
@@ -89,7 +81,3 @@ L'idée : partager des contenus accessibles, des simples astuces aux tutos plus 
 [![Email](https://img.shields.io/badge/-karl.certa@ik.me-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:karl.certa@ik.me)
 
 ---
-
-<div align="center">
-  <i>🐧 "La curiosité et la pratique, les deux piliers de tout bon admin sys !"</i>
-</div>
