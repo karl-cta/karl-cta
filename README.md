@@ -1,12 +1,22 @@
-# Salut ! 👋 Je suis Karl
+# Karl
 
-**Admin Systèmes & Réseaux**, passionné par Linux et l'automatisation.
+**Sysadmin / Ops** · Linux · Automation · Homelab
 
-Autodidacte sur ces sujets, j'apprends en permanence via mon HomeLab et des projets. Je me considère encore comme junior sur ces sujets, mais c'est justement ce qui me motive : progresser et avancer !
+[🇫🇷](#fr) | [🇬🇧](#en)
 
 ---
 
-## 🛠️ Tech Stack
+## FR
+
+Autodidacte, j'apprends en faisant — principalement sur mon homelab.
+
+## EN
+
+Self-taught, I learn by doing — mostly on my homelab.
+
+---
+
+### Tech
 
 ![Linux](https://img.shields.io/badge/-Linux-8B0000?style=flat-square&logo=linux&logoColor=white)
 ![Windows Server](https://img.shields.io/badge/-Windows_Server-0078D4?style=flat-square&logo=windows&logoColor=white)
@@ -16,12 +26,10 @@ Autodidacte sur ces sujets, j'apprends en permanence via mon HomeLab et des proj
 ![Ansible](https://img.shields.io/badge/-Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 
----
+### Links
 
-## 📫 Liens
-
-[![CV en ligne](https://img.shields.io/badge/-CV_karlcerta.fr-000000?style=flat-square&logo=readdotcv&logoColor=white)](https://karlcerta.fr)
-[![Blog Syspirit](https://img.shields.io/badge/-Blog_Syspirit-FF6B6B?style=flat-square&logo=hashnode&logoColor=white)](https://syspirit.fr)
-[![Dashboard Homer](https://img.shields.io/badge/-Dashboard_Homer-555555?style=flat-square&logo=square&logoColor=white)](https://dash.karlcerta.fr)
-[![FreshRSS](https://img.shields.io/badge/-FreshRSS-007ACC?style=flat-square&logo=rss&logoColor=white)](https://rss.karlcerta.fr)
+[![CV](https://img.shields.io/badge/-CV-000000?style=flat-square&logo=readdotcv&logoColor=white)](https://karlcerta.fr)
+[![Blog](https://img.shields.io/badge/-Blog-FF6B6B?style=flat-square&logo=hashnode&logoColor=white)](https://syspirit.fr)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/kcta)
+[![Dashboard](https://img.shields.io/badge/-Dashboard-555555?style=flat-square&logo=square&logoColor=white)](https://dash.karlcerta.fr)
+[![RSS](https://img.shields.io/badge/-FreshRSS-007ACC?style=flat-square&logo=rss&logoColor=white)](https://rss.karlcerta.fr)
