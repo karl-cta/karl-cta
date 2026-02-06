@@ -2,18 +2,6 @@
 
 **Sysadmin / Ops** · Linux · Automation · Homelab
 
-[🇫🇷](#fr) | [🇬🇧](#en)
-
----
-
-## FR
-
-Autodidacte, j'apprends en faisant — principalement sur mon homelab.
-
-## EN
-
-Self-taught, I learn by doing — mostly on my homelab.
-
 ---
 
 ### Tech
@@ -28,8 +16,6 @@ Self-taught, I learn by doing — mostly on my homelab.
 
 ### Links
 
-[![CV](https://img.shields.io/badge/-CV-000000?style=flat-square&logo=readdotcv&logoColor=white)](https://karlcerta.fr)
+[![Resume](https://img.shields.io/badge/-Resume-000000?style=flat-square&logo=readdotcv&logoColor=white)](https://karlcerta.fr)
 [![Blog](https://img.shields.io/badge/-Blog-FF6B6B?style=flat-square&logo=hashnode&logoColor=white)](https://syspirit.fr)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/kcta)
-[![Dashboard](https://img.shields.io/badge/-Dashboard-555555?style=flat-square&logo=square&logoColor=white)](https://dash.karlcerta.fr)
-[![RSS](https://img.shields.io/badge/-FreshRSS-007ACC?style=flat-square&logo=rss&logoColor=white)](https://rss.karlcerta.fr)
