@@ -6,16 +6,22 @@
 
 ### Tech
 
-![Linux](https://img.shields.io/badge/-Linux-8B0000?style=flat-square&logo=linux&logoColor=white)
-![Windows Server](https://img.shields.io/badge/-Windows_Server-0078D4?style=flat-square&logo=windows&logoColor=white)
-![PowerShell](https://img.shields.io/badge/-PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Terraform](https://img.shields.io/badge/-Terraform-623CE4?style=flat-square&logo=terraform&logoColor=white)
-![Ansible](https://img.shields.io/badge/-Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Windows Server](https://img.shields.io/badge/-Windows%20Server-0078D6?style=flat&logo=windows&logoColor=white)
+![PowerShell](https://img.shields.io/badge/-PowerShell-5391FE?style=flat&logo=powershell&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Terraform](https://img.shields.io/badge/-Terraform-7B42BC?style=flat&logo=terraform&logoColor=white)
+![Ansible](https://img.shields.io/badge/-Ansible-EE0000?style=flat&logo=ansible&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 
 ### Links
 
-[![Resume](https://img.shields.io/badge/-Resume-000000?style=flat-square&logo=readdotcv&logoColor=white)](https://karlcerta.fr)
-[![Blog](https://img.shields.io/badge/-Blog-FF6B6B?style=flat-square&logo=hashnode&logoColor=white)](https://syspirit.fr)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/kcta)
+[![Resume](https://img.shields.io/badge/-Resume-4285F4?style=flat&logo=googledocs&logoColor=white)](https://karlcerta.fr)
+[![Blog](https://img.shields.io/badge/-syspirit.fr-FF5722?style=flat&logo=hashnode&logoColor=white)](https://syspirit.fr)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/kcta)
+
+---
+
+### GitHub Stats
+
+![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=karl-cta&theme=tokyonight)
