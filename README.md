@@ -4,12 +4,24 @@
 
 ### 👋 About Me
 
-🔭 Currently working on **2 open-source projects** (coming soon)<br>
+🔭 Currently working on **[Onyka](https://github.com/karl-cta/onyka)** & a second open-source project (coming soon)<br>
 🌱 Learning **Kubernetes** & **AWS**<br>
 📝 I write articles on [syspirit.fr](https://syspirit.fr)<br>
 📄 Resume at [karlcerta.fr](https://karlcerta.fr)<br>
 💼 [LinkedIn](https://linkedin.com/in/kcta)<br>
 📫 Reach me at **karl.certa@ik.me**
+
+---
+
+### 🚀 Projects
+
+<a href="https://github.com/karl-cta/onyka">
+  <img src="https://raw.githubusercontent.com/karl-cta/onyka/main/apps/web/public/logo-128.png" width="48" />
+</a>
+
+**[Onyka](https://github.com/karl-cta/onyka)** - Self-hosted encrypted note app. Real-time collab, ephemeral Sparks.
+
+🔧 *Second project coming soon*
 
 ---
 
